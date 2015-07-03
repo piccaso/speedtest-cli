@@ -27,7 +27,7 @@ import threading
 __version__ = '0.3.2'
 
 # Some global variables we use
-user_agent = 'speedtest-cli/%s' % __version__
+user_agent = 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:38.0) Gecko/20100101 Firefox/38.0'
 source = None
 shutdown_event = None
 
